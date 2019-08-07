@@ -4,7 +4,7 @@
   "description": "node-localdb",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -23,10 +23,10 @@
   "homepage": "https://github.com/progrape/node-localdb#readme",
   "dependencies": {
     "bluebird": "^2.9.34",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.15",
     "node-uuid": "^1.4.3"
   },
   "devDependencies": {
-    "mocha": "^2.3.0"
+    "mocha": "^6.2.0"
   }
 }

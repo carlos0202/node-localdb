@@ -1,6 +1,6 @@
 {
   "name": "node-localdb-modern",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node-localdb-modern",
   "main": "index.js",
   "scripts": {

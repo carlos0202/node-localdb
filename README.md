@@ -1,4 +1,4 @@
-# node-localdb ![](https://travis-ci.org/carlos0202/node-localdb.svg?branch=master)
+# node-localdb-modern ![](https://travis-ci.org/carlos0202/node-localdb.svg?branch=master)
 
 a very lightweight local json file database for node.js, just for convenience in development environment. Forked and uptated from https://github.com/progrape/node-localdb.
 

@@ -1,26 +1,26 @@
 {
-  "name": "node-localdb",
-  "version": "0.0.3",
-  "description": "node-localdb",
+  "name": "node-localdb-modern",
+  "version": "1.0.0",
+  "description": "node-localdb-modern",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/progrape/node-localdb.git"
+    "url": "git+https://github.com/carlos0202/node-localdb.git"
   },
   "keywords": [
     "node",
     "localdb",
     "database"
   ],
-  "author": "jfengjiang",
+  "author": "carlos0202",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/progrape/node-localdb/issues"
+    "url": "https://github.com/carlos0202/node-localdb/issues"
   },
-  "homepage": "https://github.com/progrape/node-localdb#readme",
+  "homepage": "https://github.com/carlos0202/node-localdb#readme",
   "dependencies": {
     "bluebird": "^2.9.34",
     "lodash": "^4.17.15",
